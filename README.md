@@ -10,9 +10,6 @@
 
 ---
 
-![Sarvam FinOps Dashboard](dashboard_mockup.jpg)
-
----
 
 ## 🌟 Key Features
 
@@ -130,7 +127,6 @@ Sarvam-FinOps-Agent-/
 │   ├── App.jsx                         # Main app routing & state layout
 │   ├── index.css                       # Global Tailwind CSS & custom scrollbars
 │   └── main.jsx                        # React root entry point
-├── dashboard_mockup.jpg                # Project screenshot artifact
 ├── index.html                          # HTML shell
 ├── package.json                        # Node dependencies & scripts
 ├── postcss.config.js                   # PostCSS configuration
